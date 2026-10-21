@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>[FULL NAME]</h1>
+  <h1>AYOMIDE EMMANUEL OLABISI</h1>
   <h3>AI-Native Full-Stack Engineer</h3>
   <p>I build product experiences and AI workflows that turn research into action.</p>
   <p>
