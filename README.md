@@ -192,6 +192,6 @@ I build products from product idea to frontend polish to working backend flow. M
 
 <div align="center">
   <a href="mailto:ayortechservice@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ayortechservice@gmail.com-E34133?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ayomide-olabisi-88190120b"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-[YOUR%20PROFILE]-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ayomide-olabisi-88190120b"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-https://linkedin.com/in/ayomide-olabisi-88190120b-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/AyorN-cyber"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-AyorN-cyber-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </div>
