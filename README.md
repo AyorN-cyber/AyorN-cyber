@@ -1,197 +1,174 @@
 <div align="center">
-  <h1>AYOMIDE EMMANUEL OLABISI</h1>
-  <h3>AI-Native Full-Stack Engineer</h3>
-  <p>I build product experiences and AI workflows that turn research into action.</p>
-  <p>
-    <img alt="Location" src="https://img.shields.io/badge/Location-Lagos%2C%20NG-0A66C2?style=flat-square" />
-    <img alt="Open to work" src="https://img.shields.io/badge/Open%20to%20work-Available-10B981?style=flat-square" />
-    <img alt="Freelance" src="https://img.shields.io/badge/Freelance-Available-7C3AED?style=flat-square" />
-    <img alt="Experience" src="https://img.shields.io/badge/Experience-2%2B%20years-2563EB?style=flat-square" />
-  </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=230&section=header&text=Ayomide%20Olabisi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-native%20Full-Stack%20Engineer&descSize=20&descAlignY=60" alt="Ayomide Olabisi, AI-native Full-Stack Engineer" width="100%" />
+
+<a href="https://winnowhq.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1400&color=2563EB&center=true&vCenter=true&width=720&height=40&lines=I+build+product+experiences+and+AI+workflows;Turning+research+into+action;From+product+idea+to+shipped+experience" alt="Typing animation" />
+</a>
+
+<br />
+
+<img alt="Location" src="https://img.shields.io/badge/Lagos%2C%20Nigeria-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img alt="Open to work" src="https://img.shields.io/badge/Open%20to%20work-10B981?style=for-the-badge" />
+<img alt="Freelance" src="https://img.shields.io/badge/Freelance-Available-7C3AED?style=for-the-badge" />
+<img alt="Experience" src="https://img.shields.io/badge/2%2B%20years-Experience-2563EB?style=for-the-badge" />
+
+<br /><br />
+
+<a href="https://winnowhq.com"><b>Winnow</b></a> &nbsp;•&nbsp;
+<a href="https://www.intentionalworshippers.live"><b>Intentional Worshippers</b></a> &nbsp;•&nbsp;
+<a href="https://linkedin.com/in/ayomide-olabisi-88190120b"><b>LinkedIn</b></a> &nbsp;•&nbsp;
+<a href="mailto:ayortechservice@gmail.com"><b>Email</b></a>
+
 </div>
+
+<br />
 
 ## About me
 
-I build products from product idea to frontend polish to working backend flow. My work sits across product thinking, user experience, and AI-assisted execution, with a bias toward systems that help people make decisions faster. I care about clean interfaces, useful workflows, and building tools that feel direct and dependable. I am strongest when I can shape the problem, define the interaction, and move quickly from prototype to shipped experience.
+I take a product from idea to frontend polish to a working backend flow. My work sits across product thinking, user experience, and AI-assisted execution, with a bias toward systems that help people make decisions faster.
 
-## Tech stack
+I care about clean interfaces, useful workflows, and tools that feel direct and dependable. I am strongest when I can shape the problem, define the interaction, and move quickly from prototype to shipped experience.
+
+> [!NOTE]
+> Open to full-time roles and freelance projects. The fastest way to reach me is email.
+
+## How I work
+
+```mermaid
+flowchart LR
+    A([Problem]) --> B([Interaction design])
+    B --> C([Prototype])
+    C --> D([Working backend flow])
+    D --> E([Shipped experience])
+    style A fill:#2563EB,stroke:#2563EB,color:#fff
+    style B fill:#4F46E5,stroke:#4F46E5,color:#fff
+    style C fill:#6D4BE0,stroke:#6D4BE0,color:#fff
+    style D fill:#7C3AED,stroke:#7C3AED,color:#fff
+    style E fill:#10B981,stroke:#10B981,color:#fff
+```
 
 <table>
   <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-      <img alt="SQL" src="https://img.shields.io/badge/SQL-4169E1?logo=postgresql&logoColor=white" />
+    <td valign="top" width="33%">
+      <h4>Product thinking</h4>
+      Shaping the problem first, then building the smallest thing that proves it works.
     </td>
-  </tr>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>
-      <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-      <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-      <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
-      <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
-      <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-      <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+    <td valign="top" width="33%">
+      <h4>Interface craft</h4>
+      Clean, direct interfaces and user flows that feel dependable from the first click.
     </td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>
-      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-      <img alt="API design" src="https://img.shields.io/badge/API%20design-REST%20%2F%20Product-8B5CF6" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>
-      <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-      <img alt="Neon" src="https://img.shields.io/badge/Neon-111827?logo=postgresql&logoColor=white" />
-      <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
-      <img alt="Drizzle" src="https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>DevOps and Tools</strong></td>
-    <td>
-      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-      <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
-      <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-      <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>AI tooling</strong></td>
-    <td>
-      <img alt="Anthropic" src="https://img.shields.io/badge/Anthropic-181818?logo=anthropic&logoColor=white" />
-      <img alt="AI product workflows" src="https://img.shields.io/badge/AI%20workflow%20design-Product%20%2F%20Ops-14B8A6" />
-      <img alt="Browser automation" src="https://img.shields.io/badge/Browser%20automation-Agent%20flows-EC4899" />
+    <td valign="top" width="33%">
+      <h4>AI workflows</h4>
+      Research, automation, and decision tools that help people move faster.
     </td>
   </tr>
 </table>
+
+## Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,nextjs,react,vite,tailwind,nodejs,postgres,supabase,git,github,vercel,figma&perline=7" alt="Tech stack icons" />
+
+<br /><br />
+
+<img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+<img alt="Neon" src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logoColor=black" />
+<img alt="Drizzle" src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logoColor=black" />
+<img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-8B5CF6?style=flat-square" />
+<img alt="Anthropic SDK" src="https://img.shields.io/badge/Anthropic%20SDK-181818?style=flat-square&logo=anthropic&logoColor=white" />
+<img alt="AI workflow design" src="https://img.shields.io/badge/AI%20workflow%20design-14B8A6?style=flat-square" />
+<img alt="Browser automation" src="https://img.shields.io/badge/Browser%20automation-EC4899?style=flat-square" />
+
+</div>
 
 ## Featured projects
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <table>
-        <tr><td><strong>Winnow</strong></td></tr>
-        <tr><td>Buyer-intelligence product for Reddit-based market research and lead discovery.</td></tr>
-        <tr><td><small>TypeScript · Next.js · React · Drizzle · Neon · Anthropic SDK · Vercel</small></td></tr>
-        <tr><td><a href="https://winnowhq.com">Live product</a></td></tr>
-      </table>
+      <h3>Winnow</h3>
+      <p>Buyer-intelligence product for Reddit-based market research and lead discovery.</p>
+      <p><sub><code>TypeScript</code> <code>Next.js</code> <code>React</code> <code>Drizzle</code> <code>Neon</code> <code>Anthropic SDK</code> <code>Vercel</code></sub></p>
+      <p><a href="https://winnowhq.com"><b>Live product →</b></a></p>
     </td>
     <td valign="top" width="50%">
-      <table>
-        <tr><td><strong>verified-remote-jobs</strong></td></tr>
-        <tr><td>Python pipeline that filters the noise and surfaces vetted remote work opportunities.</td></tr>
-        <tr><td><small>Python · Automation · Data collection</small></td></tr>
-        <tr><td><a href="https://github.com/AyorN-cyber/verified-remote-jobs">Repository</a></td></tr>
-      </table>
+      <h3>verified-remote-jobs</h3>
+      <p>Python pipeline that filters the noise and surfaces vetted remote work opportunities.</p>
+      <p><sub><code>Python</code> <code>Automation</code> <code>Data collection</code></sub></p>
+      <p><a href="https://github.com/AyorN-cyber/verified-remote-jobs"><b>Repository →</b></a></p>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <table>
-        <tr><td><strong>Intentional Worshippers</strong></td></tr>
-        <tr><td>Modern community website for a faith-centered brand and digital content experience.</td></tr>
-        <tr><td><small>Next.js · TypeScript · Product website</small></td></tr>
-        <tr><td><a href="https://www.intentionalworshippers.live">Live site</a></td></tr>
-      </table>
+      <h3>Intentional Worshippers</h3>
+      <p>Modern community website for a faith-centered brand and digital content experience.</p>
+      <p><sub><code>Next.js</code> <code>TypeScript</code> <code>Product website</code></sub></p>
+      <p><a href="https://www.intentionalworshippers.live"><b>Live site →</b></a></p>
     </td>
     <td valign="top" width="50%">
-      <table>
-        <tr><td><strong>Private work</strong></td></tr>
-        <tr><td>Built a workspace-style web app for a brand platform with admin, auth, and content structure.</td></tr>
-        <tr><td><small>React · Vite · TypeScript · Supabase · Tailwind</small></td></tr>
-        <tr><td>Private case study</td></tr>
-      </table>
+      <h3>Brand workspace platform</h3>
+      <p>Workspace-style web app for a brand platform with admin, auth, and content structure.</p>
+      <p><sub><code>React</code> <code>Vite</code> <code>TypeScript</code> <code>Supabase</code> <code>Tailwind</code></sub></p>
+      <p><sub>Private client work. Walkthrough on request.</sub></p>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <table>
-        <tr><td><strong>Private work</strong></td></tr>
-        <tr><td>Built a desktop AI automation app with bring-your-own-key security and browser-agent capabilities.</td></tr>
-        <tr><td><small>TypeScript · AI tooling · Secure automation · Browser workflows</small></td></tr>
-        <tr><td>Private case study</td></tr>
-      </table>
+      <h3>Desktop AI automation app</h3>
+      <p>Desktop app with bring-your-own-key security and browser-agent capabilities.</p>
+      <p><sub><code>TypeScript</code> <code>AI tooling</code> <code>Secure automation</code> <code>Browser workflows</code></sub></p>
+      <p><sub>Private work. Walkthrough on request.</sub></p>
     </td>
     <td valign="top" width="50%">
-      <table>
-        <tr><td><strong>Private work</strong></td></tr>
-        <tr><td>Built client-facing mobile and portal experiences across product flows, dashboards, and internal service tooling.</td></tr>
-        <tr><td><small>React Native · Expo · TypeScript · Node backend</small></td></tr>
-        <tr><td>Private case study</td></tr>
-      </table>
+      <h3>Client mobile and portal suite</h3>
+      <p>Client-facing mobile and portal experiences across product flows, dashboards, and internal service tooling.</p>
+      <p><sub><code>React Native</code> <code>Expo</code> <code>TypeScript</code> <code>Node</code></sub></p>
+      <p><sub>Private client work. Walkthrough on request.</sub></p>
     </td>
   </tr>
 </table>
 
 <details>
-  <summary>More projects</summary>
+  <summary><b>More work</b></summary>
+  <br />
 
-  <ul>
-    <li>Landing page and conversion-focused frontend builds for brand and service sites.</li>
-    <li>Product prototypes and internal tooling for workflow automation and UI experimentation.</li>
-  </ul>
+- Landing pages and conversion-focused frontend builds for brand and service sites.
+- Product prototypes and internal tooling for workflow automation and UI experimentation.
 
 </details>
 
-## Experience snapshot
+## Journey
 
-<table>
-  <tr>
-    <td><strong>2024</strong></td>
-    <td>Built frontend-heavy product experiences and marketing sites, shaping user flows, content structure, and visual polish.</td>
-  </tr>
-  <tr>
-    <td><strong>2024 to 2025</strong></td>
-    <td>Expanded into application work with admin, auth, and content-driven systems, blending UI product design and working app logic.</td>
-  </tr>
-  <tr>
-    <td><strong>2025 to 2026</strong></td>
-    <td>Delivered AI-assisted product work, including customer research workflows, secure automation patterns, and browser-driven execution tooling.</td>
-  </tr>
-  <tr>
-    <td><strong>Current</strong></td>
-    <td>Shipping product experiences and internal AI tooling with a strong focus on product clarity, technical execution, and practical results.</td>
-  </tr>
-</table>
-
-## GitHub stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AyorN-cyber&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyorN-cyber&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com/?user=AyorN-cyber&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-      </td>
-    </tr>
-  </table>
-</div>
+| Period | Focus |
+| :-- | :-- |
+| **2024** | Frontend-heavy product experiences and marketing sites, shaping user flows, content structure, and visual polish. |
+| **2024 to 2025** | Application work with admin, auth, and content-driven systems, blending UI design with working app logic. |
+| **2025 to 2026** | AI-assisted product work: customer research workflows, secure automation patterns, and browser-driven execution tooling. |
+| **Now** | Shipping product experiences and internal AI tooling, with a focus on clarity, technical execution, and practical results. |
 
 ## Currently working on
 
-- Shipping product systems around AI-assisted research and lead discovery.
-- Designing secure, practical browser automation patterns for real work flows.
-- Improving frontend product judgment and TypeScript architecture across customer-facing work.
+- Product systems around AI-assisted research and lead discovery.
+- Secure, practical browser automation patterns for real work flows.
+- Frontend product judgment and TypeScript architecture across customer-facing work.
 
-## Contact
+## Activity
 
 <div align="center">
-  <a href="mailto:ayortechservice@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ayortechservice@gmail.com-E34133?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ayomide-olabisi-88190120b"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-https://linkedin.com/in/ayomide-olabisi-88190120b-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/AyorN-cyber"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-AyorN-cyber-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <img src="https://ghchart.rshah.org/2563EB/AyorN-cyber" alt="AyorN-cyber contribution graph" width="100%" />
+</div>
+
+## Let's talk
+
+<div align="center">
+
+<a href="mailto:ayortechservice@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ayortechservice%40gmail.com-E34133?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ayomide-olabisi-88190120b"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ayomide%20Olabisi-0A66C2?style=for-the-badge" /></a>
+<a href="https://github.com/AyorN-cyber"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-AyorN--cyber-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=120&section=footer&reversal=true" alt="" width="100%" />
+
 </div>
